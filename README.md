@@ -1,6 +1,7 @@
 # RS-SA
 Review Scraping and Sentiment Analysis pipeline for video game reviews, taken from Metacritic
-Death Stranding was used as a baseline for our project
+
+Death Stranding was used as a baseline for the project
 
 ![deathstranding](https://user-images.githubusercontent.com/57527630/123118533-a10b5c00-d43a-11eb-859e-733a1bbfe871.jpg)
 
